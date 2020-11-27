@@ -42,7 +42,7 @@ This Code of Conduct applies to all platforms and communities officially maintai
  * The wavy.fm [subreddit](https://reddit.com/r/wavyfm)
  * The wavy.fm [Twitter account](https://twitter.com/wavyfm)
  * The wavy.fm [Instagram account](https://instagram.com/wavydotfm)
- * The wavy.fm [GitHub Community project](https://github.com/wavymedia/community)
+ * The wavy.fm [GitHub Community project](https://github.com/wavy/community), and all other repositories in the organization
 
 This Code of Conduct also applies when an individual is representing the website or its community in public places.
 Representation of the website may be further defined and clarified by staff.
